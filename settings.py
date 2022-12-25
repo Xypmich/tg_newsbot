@@ -1,0 +1,8 @@
+libpn_xpath_first = '//*[@id="auth-pages"]/div/div[2]/div[3]/div/div[2]/button[1]/div'
+libpn_xpath_second = '//*[@id="auth-qr-form"]/div/button[1]'
+phone_input_id = 'sign-in-phone-number'
+phone_input_xpath = '//*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/div[2]/div[1]'
+phone_number = '9168042033'
+next_button_xpath_first = '//*[@id="auth-phone-number-form"]/div/form/button[1]'
+next_button_xpath_second = '//*[@id="auth-pages"]/div/div[2]/div[2]/div/div[3]/button[1]'
+input_class_name = 'input-field'
