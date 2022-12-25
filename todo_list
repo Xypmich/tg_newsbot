@@ -1,0 +1,14 @@
+1. (DONE) Auth logic through sending auth code
+2. Simple bot to request and receive auth code from me
+3. Auth logic till success log in
+4. New post to bot logic with Selenium
+    4.1 Find chat with new post
+    4.2 Share all new posts to bot
+    4.3 Close chat
+5. Bot that send new to users
+    5.1 Turn public name into hashtag (#)
+    5.2 Send post to sub users
+        5.2.1 JSON with user(chat id): publics list(publics tag names)\
+        5.2.2 Edit publics list function
+        5.2.3 Make silence send in sleeping hours
+6. Blacklist for publics (illegal, porn etc.) (maybe whitelist for couple of users or face control)
